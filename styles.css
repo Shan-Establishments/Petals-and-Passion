@@ -1,0 +1,83 @@
+body {
+    background-image: url("./resources/pink-roses.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+    color: #234F1E;
+} 
+
+header {
+    background-color: #FCBACB;
+    height: 100%;
+}
+
+#heading {
+    font-size: 3em;
+    text-align: center;
+    padding-top: .75em;
+    font-style: italic;
+    letter-spacing: 3px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    border: #234F1E 1px solid;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+a:link {
+    color:#234F1E
+}
+
+a:visited {
+    color: #234F1E;
+}
+
+.section1 {
+    background-color: #FCBACB;
+}
+
+.section2 {
+    background-color: #FCBACB;
+}
+
+.figures {
+    border: 1px solid #234F1E;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2em;
+}
+
+.figures img {
+    height: 25em;
+    width: auto;
+    border: 1px solid #234F1E;
+}
+
+.section3 {
+    background-color: #FCBACB;
+}
+
+.images {
+    border: 1px solid #234F1E;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2em;
+}
+
+.images img {
+    height: 15em;
+    width: auto;
+    border: 1px solid #234F1E;
+}
+
+footer {
+    background-color: #FCBACB;
+}
