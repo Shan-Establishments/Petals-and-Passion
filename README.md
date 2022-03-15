@@ -10,4 +10,4 @@ I made sure to include a flowery background to attract users, flower images from
 Here is an image of my project so far:
 ![PetalsandPassion](https://user-images.githubusercontent.com/96252845/158329405-b1036b78-acb2-4069-a3da-0718d8e6bc78.jpeg)
 
-The background is not displayed with the picture, come and see what it looks like [here]().
+The background is not displayed with the picture, come and see what it looks like [here](https://shan-establishments.github.io/Petals-and-Passion/).
